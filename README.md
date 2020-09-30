@@ -22,9 +22,10 @@
     Открытые вакансии
 </h3>
 
-<ul>
-<li><a href="https://github.com/Process-Automation-Group/Career/blob/master/positions/MS%20SQL%20prog.md">Программист MS SQL</a></li>
-</ul>
+нет
+- <ul>
+- <li><a href="https://github.com/Process-Automation-Group/Career/blob/master/positions/MS%20SQL%20prog.md">Программист MS SQL</a></li>
+- </ul>
 
 
 <h3>
